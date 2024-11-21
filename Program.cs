@@ -17,3 +17,5 @@ public class TablasMultiplicarInfinitas
         Console.ReadKey();
     }
 }
+
+// hola, estamos practicando
